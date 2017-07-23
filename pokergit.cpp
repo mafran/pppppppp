@@ -1,4 +1,4 @@
-// pokerfinal.cpp : Defines the entry point for the console application.
+// pokergit.cpp -> POKERJAJAJA
 //
 
 #include "stdafx.h"
